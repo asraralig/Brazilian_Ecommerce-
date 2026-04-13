@@ -1,1 +1,1 @@
-# Brazilian_Ecommerce
+A structured SQL project analysing the Olist Brazilian E-Commerce dataset. This project explores sales trends, customer behaviour, seller performance, delivery efficiency, and product insights using Microsoft SQL Server.
